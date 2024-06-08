@@ -1,5 +1,8 @@
-Flask==2.0.2
+Flask==3.0.3
 flask-cors==3.0.10
-Flask-SQLAlchemy==2.5.1
+Flask-SQLAlchemy==3.0.3
 Flask-Migrate==4.0.7
-psycopg2-binary==2.8.6
+werkzeug==3.0.0
+psycopg2-binary==2.9.9
+python-dotenv==0.19.2
+gunicorn

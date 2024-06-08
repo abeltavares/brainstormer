@@ -1,11 +1,10 @@
-from datetime import datetime
 from flask import Flask, jsonify, request, send_from_directory
 from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
 import os
 
-app = Flask(__name__, static_folder="../dist", static_url_path="/")
+app = Flask(__name__, static_folder="../public", static_url_path="/")
 CORS(app)
 
 # Database setup

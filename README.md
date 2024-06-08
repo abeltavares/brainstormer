@@ -102,15 +102,15 @@ Create a `.env` file in the root directory and add the following environment var
 
 1.  Clone the repository:
 
-```bash
-git clone https://github.com/abeltavares/brainstormer.git
-```
+    ```bash
+    git clone https://github.com/abeltavares/brainstormer.git
+    ```
 
 2.  Install dependencies:
 
-```bash
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 3.  Start the frontend development server:
 
