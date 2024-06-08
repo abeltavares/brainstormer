@@ -18,6 +18,8 @@ Brainstormer
 
 **Brainstormer** is a web application built using Vue.js for the frontend and Flask for the backend. It allows teams to create brainstorming sessions, add ideas to these sessions, vote on ideas, and manage sessions and ideas efficiently in a collaborative environment.
 
+![App Demo](src/assets/brainstormer.gif)
+
 Table of Contents
 -----------------
 
